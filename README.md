@@ -1,2 +1,2 @@
 # Maze-Solver-CSE2003
-J Co
+J Component for CSE 2003 | Maze Solver
